@@ -208,4 +208,5 @@ Keep the AI Agent and Supabase Vector Store tool unchanged.
 
 ## Author
 
-Built as a reusable AI automation architecture for document search, support automation, and internal knowledge base assistants.
+Eljon G. Mateo
+AI Automation Specialist
